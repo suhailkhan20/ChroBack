@@ -1,7 +1,2 @@
-# Ignore everything
-*
-
-# But not these
-!.gitignore
-!backend/
-!backend/**/*
+.env
+.node_modules
